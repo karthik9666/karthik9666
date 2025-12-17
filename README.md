@@ -115,16 +115,7 @@ width="40" height="40"/>
 
 ---
 
-## 📌 GitHub Analytics
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik9666&show_icons=true&locale=en&layout=compact"
-alt="karthik9666"/>
-</p>
 
-<p>&nbsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=karthik9666&show_icons=true&locale=en"
 alt="karthik9666"/>
 </p>
 
