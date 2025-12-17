@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">
-Data Analyst | Python Developer | Business Intelligence Analyst
+Data Analyst | Python Developer | Business Intelligence Analyst | Power BI Developer
 </h3>
 
 <img align="right" alt="Data Analysis" width="400"
