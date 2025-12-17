@@ -116,11 +116,4 @@ width="40" height="40"/>
 ---
 
 
-alt="karthik9666"/>
-</p>
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=karthik9666"
-alt="karthik9666"/>
-</p>
